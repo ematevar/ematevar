@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hola,+soy+Emanuel+Atencio+Vargas;Ingeniero+de+Sistemas+en+formación;Python+Developer;Entusiasta+de+la+Automatización" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Emanuel+Atencio;Systems+Engineering+Student;Python+Developer;Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  Estudiante de Ingeniería de Sistemas (Quinto Superior) en Tacna, Perú. 
-  Me especializo en crear soluciones que ahorran tiempo: desde <b>Bots de Automatización</b> hasta <b>Dashboards de Datos</b>. 
-  Actualmente explorando el mundo <b>Serverless</b> y arquitecturas Cloud.
+  Systems Engineering Student (Top 20% Class) based in Tacna, Peru. 
+  I specialize in building time-saving solutions: from <b>Automation Bots</b> to <b>Data Dashboards</b>. 
+  Currently exploring the world of <b>Serverless</b> and Cloud architectures.
 </p>
 
 ---
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  
+   
   <br />
 
   <img src="https://img.shields.io/badge/BPMN-Bizagi-orange?style=for-the-badge" />
@@ -40,32 +40,32 @@
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 My Metrics
 
 <div align="center">
   <a href="https://github.com/ematevar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ematevar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ematevar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
   </a>
-  
+
   <a href="https://github.com/ematevar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematevar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ematevar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ematevar&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=ematevar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
-### ⚡ Actividad Reciente
+### ⚡ Recent Activity
 
-* 🔭 Actualmente trabajando en: **ERP para Pastelería (Tesis) & Bots de Scraping**
-* 🌱 Aprendiendo: **Arquitectura Serverless y FinOps**
-* 👯 Busco colaborar en: **Proyectos Open Source de Python o Automatización**
-* 💬 Pregúntame sobre: **Python, Selenium, Trading Algorithms & BPMN**
+* 🔭 Currently working on: **High-Performance Web Scrapers, Financial Data Monitors & Digital Identity Strategy**
+* 🌱 Learning: **Serverless Architecture and FinOps**
+* 👯 Looking to collaborate on: **Python Open Source or Automation Projects**
+* 💬 Ask me about: **Python, Selenium, Trading Algorithms & BPMN**
 
 ---
 

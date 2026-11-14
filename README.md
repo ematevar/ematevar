@@ -74,14 +74,15 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💼 <a href="https://github.com/ematevar/pyme-ledger">PYME Ledger</a></h3>
+      <h3 align="center">💼 <a href="https://github.com/ematevar/pyme-ledger">PYME-Ledger Pro</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django_5.0-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Beancount-CC292B?style=flat-square" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Accounting_Automation-success?style=flat-square" />
       </p>
       <p>
-        Solución ágil para la gestión de libros financieros, control de ingresos/egresos y generación automatizada de balances contables para micro y pequeñas empresas.
+        Sistema POS e Inteligencia Financiera para PYMEs peruanas bajo <b>Clean Architecture</b>. Transforma cada venta en asientos contables auditables PCGE mediante el motor <b>Beancount</b>, con analytics avanzados en Fava y despliegue en Docker.
       </p>
     </td>
   </tr>

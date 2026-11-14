@@ -1,0 +1,43 @@
+name: Sync Credly Certifications
+
+on:
+  schedule:
+    # Ejecuta automáticamente todos los días a las 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permite ejecutar manualmente con un clic en la pestaña Actions
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/sync_credly.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-credly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Credly Sync Script
+        run: python scripts/sync_credly.py
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --quiet --staged; then
+            git commit -m "chore(credly): auto-sync latest verified badges [skip ci]"
+            git push
+          else
+            echo "No new Credly badges detected."
+          fi
